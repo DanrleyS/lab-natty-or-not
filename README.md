@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Misterio dos bichinhos desaparecidos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma historia infantil gerada por IA e convertida em podcast.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Elevenlabs, Descript.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com o chat GPT foi feita uma historia infantil, com o elevenlabs foi feita o audio, e com o descript foi feito o podcast, com a transcrição do audio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Se encontra neste link: (https://share.descript.com/view/mNbaSb6EQxQ)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com a IA é realmente interessante e facil a manipulação de dados para geração de novos conteudos, bem como aproveitamento de conteudos ja ultilizados.
 ```
 
 ### Exemplos e Insigths
